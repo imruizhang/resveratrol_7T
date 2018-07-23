@@ -16,4 +16,4 @@ So far we published one paper with primary and secondary outcomes using 7T MRI d
 
 - data has been preprocessed with standard FSL pipeline
 
-- the post processing of registration between T1 and DTI was done by Frauke Beyer
+- the post processing of registration between T1 and DTI was done by Frauke Beyer (files in ./improve_coregistration)
